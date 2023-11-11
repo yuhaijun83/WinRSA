@@ -1,5 +1,4 @@
 # WinRSA
-https://github.com/yuhaijun83/WinRSA
 
 RAS For Windows
 
